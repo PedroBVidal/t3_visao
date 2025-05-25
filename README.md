@@ -8,5 +8,7 @@ pip install opencv-python \
 pip install matplotlib \
 pip install PyQt6
 
+Exemplo de execução do código:
+python3 t3_affine.py documento.jpg
 
 
