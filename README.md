@@ -11,4 +11,7 @@ pip install PyQt6
 Exemplo de execução do código:
 python3 t3_affine.py documento.jpg
 
+Referência das imagens utlizadas \
+https://learnopencv.com/wp-content/uploads/2022/07/Original-Form-2.jpg \
+https://nikolasent.github.io/assets/post3/test_img.jpg
 
