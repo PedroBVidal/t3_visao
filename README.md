@@ -6,7 +6,7 @@ python3.10 -m venv t3_venv \
 source t3_venv/bin/activate \
 pip install opencv-python \
 pip install matplotlib \
-pip install PyQt6 \
+pip install PyQt6
 
 
 
